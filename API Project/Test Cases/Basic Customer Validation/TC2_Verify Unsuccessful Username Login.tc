@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2_Verify Unsuccessful Username Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>329f7210-411e-4480-9f42-b5747ffa063a</testCaseGuid>
+   <variable>
+      <defaultValue>'Bad Username'</defaultValue>
+      <description></description>
+      <id>73e72cda-8250-4e89-b270-9314c6dcc2b4</id>
+      <masked>false</masked>
+      <name>bad_username</name>
+   </variable>
+</TestCaseEntity>
